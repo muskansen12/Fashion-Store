@@ -6,14 +6,14 @@
 This is a **Fashion Store**  modern and stylish e-commerce website designed to showcase and sell fashion products. Built using HTML and CSS, it features a clean, responsive design to provide a seamless shopping experience across devices.
 
 ## 📋 Features
--**Responsive Design** –  (desktop, tablet, and mobile devices)
--**Stylish Homepage** – (Engaging UI with a modern fashion aesthetic)
--**Product Gallery** – (Showcases fashion items with images, descriptions, and prices)
--**Navigation Menu** – (Easy-to-use menu for smooth browsing)
--**Hover Effects** – (Interactive animations for a dynamic user experience)
--**Contact & Subscription Form** – (Allows users to reach out and subscribe for updates)
--**Google Fonts & Icons** – (Enhances typography and visuals for a polished look)
--**CSS Grid & Flexbox** – (Used for a structured and responsive layout)
+- **Responsive Design**  (desktop, tablet, and mobile devices)
+- **Stylish Homepage**  (Engaging UI with a modern fashion aesthetic)
+- **Product Gallery**  (Showcases fashion items with images, descriptions, and prices)
+- **Navigation Menu**  (Easy-to-use menu for smooth browsing)
+- **Hover Effects** (Interactive animations for a dynamic user experience)
+- **Contact & Subscription Form**  (Allows users to reach out and subscribe for updates)
+- **Google Fonts & Icons**  (Enhances typography and visuals for a polished look)
+- **CSS Grid & Flexbox**  (Used for a structured and responsive layout)
 
 ## 🛠️ Technologies Used
 - **HTML** - Page structure
