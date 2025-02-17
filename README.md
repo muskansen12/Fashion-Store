@@ -39,4 +39,19 @@ This is a **Fashion Store**  modern and stylish e-commerce website designed to s
 
 4. Alternatively, you can use Live Server in VS Code.
 
+## 📌 Deployment
+- The project is deployed on **Vercel** for fast and reliable hosting.
+- Live Link: [https://Fashion-Store-azure.vercel.app/](https://Fashion-Store-azure.vercel.app/)
+
+## 📬 Contact
+For any queries, feel free to reach out:
+- **Email:** muskansen144@gmail.com
+- **GitHub:** [GitHub - muskansen12](https://github.com/muskansen12)
+- **LinkedIn:** [LinkedIn - Muskan Sen](https://www.linkedin.com/in/muskan-sen-ab5501237/)
+
+
+© 2025 University Insights. All Rights Reserved.
+
+
+
 
